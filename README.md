@@ -14,7 +14,7 @@
 [+]how to use the matlab project:                                                             
 1-double click run file.                                                                        
 2-use the trianing m file to train voices, using the command 'training' in matlab workspace.
-[.]-record your voice, for five second 
+[.]-record your voice, for five second                                                              
 3-use the testing m file to test who is speaking, using the command 'testing' in matlab workspace.
 [.]-record your voice, for five second 
 
