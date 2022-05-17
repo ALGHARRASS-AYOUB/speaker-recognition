@@ -11,8 +11,8 @@
 2-use training function to train your voice
 [hint] you can train three voices , for each voice you can train one or more than try. with ID between 1-3.
 
-[+]how to use the matlab project:
-1-double click run file.
+[+]how to use the matlab project:                                                             
+1-double click run file.                                                                        
 2-use the trianing m file to train voices, using the command 'training' in matlab workspace.
 [.]-record your voice, for five second 
 3-use the testing m file to test who is speaking, using the command 'testing' in matlab workspace.
