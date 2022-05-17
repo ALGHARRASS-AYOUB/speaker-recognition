@@ -6,7 +6,7 @@
    
    
 
-[hint]-you should have matlab 2019 or newer
+[hint]-you should have matlab 2019 or newer                                                              
 1-delete data base for new use use[delete Data.xls] [perfommed in run function]
 2-use training function to train your voice
 [hint] you can train three voices , for each voice you can train one or more than try. with ID between 1-3.
